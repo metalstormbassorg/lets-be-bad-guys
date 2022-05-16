@@ -1,2 +1,4 @@
 Django==1.9.6
 django-debug-toolbar==1.4
+pyyaml==3.13
+trafaret-config==2.0.2
